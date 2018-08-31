@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/mozilla/readability
+	branch = master
+	commit = 3be1aaa01c078c25b67ed8dfd1c9aa8f9963490b
+	parent = 313b703ef1bb2c8376b99d42031c661779e6810c
+	cmdver = 0.3.1
