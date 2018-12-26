@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/mozilla/readability
 	branch = master
-	commit = 3be1aaa01c078c25b67ed8dfd1c9aa8f9963490b
-	parent = 313b703ef1bb2c8376b99d42031c661779e6810c
+	commit = 8c41d92560dff3de34a6e68f446855669b046764
+	parent = 5f2fd768569b77d3b8f385765deed3c9d1c068e2
 	cmdver = 0.3.1
